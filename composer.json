@@ -1,0 +1,16 @@
+{
+    "name": "laptop-business/proyecto-bst",
+    "description": "proyecto uptaeb",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vargardaikelys",
+            "email": "vargasdaikelys@gmail.com"
+        }
+    ],
+    "require": {}
+}
