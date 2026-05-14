@@ -1,6 +1,6 @@
 {
     "name": "laptop-business/proyecto-bst",
-    "description": "proyecto uptaeb",
+    "description": "proyecto-BST",
     "autoload": {
         "psr-4": {
             "app\\": "src/"

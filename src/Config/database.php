@@ -4,7 +4,7 @@ use PDO;
 use PDOException;
 class Database {
 private $host = "localhost";
-private $dbname = "uptaeb_proyectos";
+private $dbname = "proyecto_2";
 private $user = "root";
 private $pass = "";
 public $conn;
